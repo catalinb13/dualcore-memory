@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dualcore-memory"
+version = "1.0.0"
+description = "The Unified Dual-Core Memory Architecture (UDMA) framework for agentic semantic reconciliation."
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [
+  { name = "Hermes Agent Developer" }
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]
