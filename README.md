@@ -50,6 +50,7 @@ class MyCustomEnzyme(EnzymeBridge):
     # Implement petri(), catalyze(), etc.
     ...
 ```
+To be noted this is experimental and should be treated as such. 
 
 ## License
 MIT
