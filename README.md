@@ -31,12 +31,12 @@ When a contradiction is found, the engine generates a **Reconciliation Alert**, 
 
 ### Via Pip
 ```bash
-pip install git+https://github.com/yourname/dualcore-memory.git
+pip install git+https://github.com/catalinb13/dualcore-memory.git
 ```
 
 ### Via Plugin Directory (Hermes Agent)
 ```bash
-git clone https://github.com/yourname/dualcore-memory ~/.hermes/plugins/dualcore
+git clone https://github.com/catalinb13/dualcore-memory ~/.hermes/plugins/dualcore
 ```
 
 ## Extending the Framework
